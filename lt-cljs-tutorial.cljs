@@ -110,6 +110,7 @@ lt-cljs-tutorial/x
 ;; ClojureScript comes out of the box with the usual useful data literals.
 
 ;; Booleans
+;; BOOKMARK
 
 (def a-boolean true)
 
